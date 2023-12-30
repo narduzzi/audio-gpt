@@ -52,11 +52,11 @@ python main.py
 
 The commands are as follows:
 
-| Command | Description |
---- | ---
-| r | starts recording until silence is detected |
-| exit | quits the script |
-| <anything else> | sends the text to ChatGPT |
+| Command         | Description |
+-----------------| ---
+| r               | starts recording until silence is detected |
+| exit            | quits the script |
+| {anything else} | sends the text to ChatGPT |
 
 
 ## License
